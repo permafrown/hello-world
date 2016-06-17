@@ -1,2 +1,2 @@
 # hello-world
-original repo on GitHub - tutorial
+i'm just a guy with stuff going on
